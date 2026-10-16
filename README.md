@@ -4,6 +4,8 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yuanshen-123-ui" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/yuanshen-123-ui?label=Followers&style=flat-square&color=555555&labelColor=333333" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/yuanshen-123-ui?label=Stars&style=flat-square&color=555555&labelColor=333333" alt="Stars" />
 </p>
 
 ---
@@ -11,7 +13,6 @@
 - 🔭 目前在做：**cty-web**
 - 🌱 正在学习：**C++ / Vue**
 - 👯 希望合作：[www.ccflysim.cn](https://www.ccflysim.cn)
-- 💬 可以问我：C++、Vue 相关的问题
 - 📫 联系方式：guichangyang@ccflysim.cn
 - ⚡ 个签：**用 C++ 打底，用 Vue 起飞。**
 
@@ -20,7 +21,7 @@
 ### 🛠 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,vue,js,html,css,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,vue,js,html,css,git,github,vscode,nodejs,cmake,linux&theme=dark" />
 </p>
 
 ---
@@ -38,10 +39,46 @@
 
 ---
 
+### 📈 活跃度
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuanshen-123-ui&theme=github-dark&hide_border=true&bg_color=0D1117&color=AAAAAA&line=888888&point=CCCCCC&area=true" />
+</p>
+
+---
+
+### 🏆 成就
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=yuanshen-123-ui&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</p>
+
+---
+
+### 🐍 贡献图
+
+<p>
+  <img src="https://raw.githubusercontent.com/yuanshen-123-ui/yuanshen-123-ui/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+</p>
+
+---
+
+### 💭 每日名言
+
+<p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
 ### 🔗 找到我
 
 <p>
   <a href="https://github.com/yuanshen-123-ui"><img src="https://img.shields.io/badge/GitHub-yuanshen--123--ui-333333?logo=github&logoColor=white&style=flat-square" /></a>
   <a href="https://www.ccflysim.cn"><img src="https://img.shields.io/badge/Website-ccflysim.cn-555555?logo=googlechrome&logoColor=white&style=flat-square" /></a>
   <a href="mailto:guichangyang@ccflysim.cn"><img src="https://img.shields.io/badge/Email-guichangyang@ccflysim.cn-777777?logo=gmail&logoColor=white&style=flat-square" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuanshen-123-ui&label=Profile%20Views&color=555555&style=flat-square" />
 </p>
