@@ -14,7 +14,7 @@
 - 🌱 正在学习：**C++ / Vue**
 - 👯 希望合作：[www.ccflysim.cn](https://www.ccflysim.cn)
 - 📫 联系方式：guichangyang@ccflysim.cn
-- ⚡ 个签：**用 C++ 打底，用 Vue 起飞。**
+- ⚡ 个签：**用爱感化所有人。**
 
 ---
 
@@ -35,22 +35,6 @@
 
 <p>
   <img src="https://streak-stats.demolab.com?user=yuanshen-123-ui&theme=github-dark-blue&hide_border=true&date_format=Y.n.j&background=0D1117&ring=AAAAAA&fire=CCCCCC&currStreakLabel=CCCCCC" />
-</p>
-
----
-
-### 📈 活跃度
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuanshen-123-ui&theme=github-dark&hide_border=true&bg_color=0D1117&color=AAAAAA&line=888888&point=CCCCCC&area=true" />
-</p>
-
----
-
-### 🏆 成就
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=yuanshen-123-ui&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ---
