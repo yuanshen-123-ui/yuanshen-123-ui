@@ -60,7 +60,7 @@
 ## 📫 联系
 
 - CWFLY：https://www.cwflysim.cn
-- CTYFLY：https://ccflysim.cn
+- CTYFLY：https://www.ccflysim.cn
 - 邮箱：501827685@qq.com 或 guichangyang@ccflysim.cn
 
 ---
@@ -130,7 +130,7 @@ And I have a beloved partner, **Xiaoya**.
 ## 📫 Contact
 
 - CWFLY: https://www.cwflysim.cn
-- CTYFLY: https://ccflysim.cn
+- CTYFLY: https://www.ccflysim.cn
 - Email: 501827685@qq.com or guichangyang@ccflysim.cn
 
 </details>
