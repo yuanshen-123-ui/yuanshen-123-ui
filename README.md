@@ -1,4 +1,16 @@
+# 欢迎来到我的GitHub主页
+
+  首先是一个**自我介绍**
+  
 # 你好，我是 Tearsvow👋
+
+## 🧠 MBTI: INTP
+
+- 看到 **bug**：先问“为什么会这样”，再问“怎么修”
+- 写代码：喜欢先搭抽象，再补细节
+- 开会：脑子里在跑模拟，嘴上只说结论
+- 社交：需要独处充电，但聊到感兴趣的技术能讲很久
+- 弱点：想法很多，落地需要 deadline 推一把
 
 模拟飞行爱好者 / 全栈开发者,同时维护两个模拟飞行社区平台：**CWFLY** 与 **CTYFLY**。
 
@@ -25,7 +37,7 @@
 |---|---|---|
 | [CTYFLY-WEB](https://github.com/yuanshen-123-ui/CTYFLY-WEB) | CTY 飞控社区官网：航情/航路规划、连飞活动、虚拟航司运营、经济系统、桌宠 AI、双人复核管理后台 | Vue 3 · FastAPI · SQLite |
 
-> 线上站点：[ccflysim.cn](https://ccflysim.cn)
+> 线上站点：[ccflysim.cn](https://www.ccflysim.cn)
 
 ---
 
@@ -48,3 +60,4 @@
 
 - CWFLY：https://www.cwflysim.cn
 - CTYFLY：https://ccflysim.cn
+- 邮箱：501827685@qq.com 或者 guichangyang@ccflysim.cn
