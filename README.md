@@ -14,7 +14,7 @@
 | [CWFLY-BOT](https://github.com/yuanshen-123-ui/CWFLY-BOT) | QQ 机器人：群管理、航班查询、FSD 状态播报、AI 问答 | Node.js · OneBot |
 | [CWFLY-DOCS](https://github.com/yuanshen-123-ui/CWFLY-DOCS) | 官方文档站：新人指南、管制手册、FSD 使用说明、API 文档 | VitePress |
 
-> 线上站点：[www.cwflysim.cn](https://www.cwflysim.cn) · 部署资产（Nginx / 运维脚本 / SQL 迁移）为私有仓库，不对外公开。
+> 线上站点：[www.cwflysim.cn](https://www.cwflysim.cn)
 
 ---
 
