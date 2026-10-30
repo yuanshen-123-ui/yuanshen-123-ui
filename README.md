@@ -11,9 +11,10 @@
 | [CWFLY-ATC](https://github.com/yuanshen-123-ui/CWFLY-ATC) | 管制中心：ATC 席位工作台、在线雷达、排班交接 | Vue 3 · Express |
 | [CWFLY-BOT](https://github.com/yuanshen-123-ui/CWFLY-BOT) | QQ 机器人：群管理、航班查询、FSD 状态播报、AI 问答 | Node.js · OneBot |
 | [CWFLY-DOCS](https://github.com/yuanshen-123-ui/CWFLY-DOCS) | 官方文档站：新人指南、管制手册、FSD 使用说明 | VitePress |
-| [CWFLY-DEPLOY](https://github.com/yuanshen-123-ui/CWFLY-DEPLOY) | 生产部署资产：Nginx 配置、运维脚本、SQL 迁移 | Nginx · Bash · MySQL |
 
 > 线上站点：[www.cwflysim.cn](https://www.cwflysim.cn)
+>
+> 部署资产（Nginx / 运维脚本 / SQL 迁移）为私有仓库，不对外公开。
 
 ## 🧩 其他项目
 
