@@ -65,6 +65,52 @@
 
 ---
 
+## 🚀 最近在做什么
+
+- 维护 **CTYFLY** 与 **CWFLY** 两套模拟飞行社区，持续打磨航情、航路、连飞活动与虚拟航司运营体验。
+- 推进 **ACIS 飞圈事件检索**：把事件资料、论坛互动、免登录投稿纠错和后台审核整合成一个完整模块。
+- 优化前后端工程链路：部署回滚、全站冒烟、权限复核、审计日志与移动端适配。
+- 把日常遇到的问题沉淀成文档和自动化脚本，减少重复劳动。
+
+## 🧭 我关注的方向
+
+| 方向 | 具体关注 |
+|---|---|
+| 航空数据 | METAR / TAF、AIRAC 航路、机场地面图、FSD 连线与管制流程 |
+| 社区产品 | 活动报名、工单、积分、内容审核与社区资料库 |
+| 交互设计 | 玻璃拟态、深色模式、移动端布局与低干扰操作路径 |
+| 工程质量 | 幂等迁移、限流、双人复核、备份恢复与端到端检查 |
+| 航空运营 | 虚拟航司经济、签派、PIREP 结算与公司账本 |
+
+## 🧰 我的工程习惯
+
+- 先让主流程闭环，再补边界与视觉细节。
+- 遇到 bug 先复现、再定位根因，最后补回归测试。
+- 喜欢把复杂系统拆成清晰的模块，让每个模块都能独立验证。
+- 对界面质感有要求：层级、留白、光影和动效都要服务于信息阅读。
+- 能写脚本解决的事情，尽量不靠记忆手工重复。
+
+## 📍 个人小档案
+
+- 常驻：重庆
+- 身份：模拟飞行爱好者 / 全栈开发者 / 社区维护者
+- 状态：一边写代码，一边研究航图和界面细节
+- 在意：真实、稳定、可维护，以及把事情做完
+
+## 🎯 2026 小目标
+
+- [x] 完成 CTYFLY 社区平台的主要功能闭环
+- [x] 上线 ACIS 飞圈事件检索
+- [ ] 继续完善 CWFLY 与 CTYFLY 的移动端体验
+- [ ] 补更多自动化回归与性能基线
+- [ ] 保持输入，也保持输出
+
+## 💬 一句话
+
+> 把复杂系统做得像一次平稳落地：乘客感觉不到过程，但每一步都经过计算。
+
+---
+
 <details>
 <summary><b>🇬🇧 English Version (click to expand)</b></summary>
 
@@ -132,5 +178,51 @@ And I have a beloved partner, **Xiaoya**.
 - CWFLY: https://www.cwflysim.cn
 - CTYFLY: https://www.ccflysim.cn
 - Email: 501827685@qq.com or guichangyang@ccflysim.cn
+
+---
+
+## 🚀 What I'm doing now
+
+- Maintaining two flight-simulation communities, **CTYFLY** and **CWFLY**, with a focus on weather, routing, events and virtual-airline operations.
+- Building **ACIS**, an incident-search and community module that combines a searchable archive, forum interactions, anonymous submissions and admin review.
+- Improving deployment, rollback, smoke testing, permission review, audit logging and mobile layouts.
+- Turning recurring problems into documentation and automation instead of repeating manual work.
+
+## 🧭 What I focus on
+
+| Area | Details |
+|---|---|
+| Aviation data | METAR / TAF, AIRAC routes, airport charts, FSD networking and ATC workflows |
+| Community products | Events, tickets, points, moderation and community knowledge bases |
+| Interaction design | Glassmorphism, dark mode, mobile layout and low-friction flows |
+| Engineering quality | Idempotent migrations, rate limiting, dual review, backups and end-to-end checks |
+| Virtual airline ops | Economy, dispatch, PIREP settlement and company ledgers |
+
+## 🧰 How I work
+
+- Close the main loop first, then refine edge cases and visual details.
+- Reproduce a bug, find the root cause, then add a regression test.
+- Prefer clear modules that can be verified independently.
+- Care about hierarchy, spacing, light and motion — always in service of readable information.
+- Automate repetitive work whenever a script can do it better.
+
+## 📍 Quick profile
+
+- Based in Chongqing, China
+- Flight-sim enthusiast / full-stack developer / community maintainer
+- Usually writing code, reading charts or polishing interface details
+- Values: authenticity, stability, maintainability and finishing the job
+
+## 🎯 2026 goals
+
+- [x] Complete the main CTYFLY feature loop
+- [x] Launch ACIS incident search
+- [ ] Keep improving mobile experiences for CWFLY and CTYFLY
+- [ ] Add more automated regression and performance baselines
+- [ ] Keep learning and keep shipping
+
+## 💬 One line
+
+> Make a complex system feel like a smooth landing: passengers do not see the process, but every step is calculated.
 
 </details>
