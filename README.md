@@ -80,12 +80,16 @@ SIDE QUESTS
 └─ embroidery-note 刺绣风汉字便签
 ```
 
-入口：
+### 入口
 
-- [CTYFLY-WEB](https://github.com/yuanshen-123-ui/CTYFLY-WEB) · [ccflysim.cn](https://www.ccflysim.cn)
-- [CWFLY-WEB](https://github.com/yuanshen-123-ui/CWFLY-WEB) · [CWFLY-FSD](https://github.com/yuanshen-123-ui/CWFLY-FSD) · [CWFLY-ATC](https://github.com/yuanshen-123-ui/CWFLY-ATC) · [CWFLY-BOT](https://github.com/yuanshen-123-ui/CWFLY-BOT) · [CWFLY-DOCS](https://github.com/yuanshen-123-ui/CWFLY-DOCS)
-- [www.cwflysim.cn](https://www.cwflysim.cn)
-- [love-memoir](https://github.com/yuanshen-123-ui/love-memoir) · [embroidery-note](https://github.com/yuanshen-123-ui/embroidery-note)
+**[CTYFLY ↗](https://www.ccflysim.cn)**  
+飞行模拟社区 · [源码](https://github.com/yuanshen-123-ui/CTYFLY-WEB)
+
+**[CWFLY ↗](https://www.cwflysim.cn)**  
+`WEB` [源码](https://github.com/yuanshen-123-ui/CWFLY-WEB) · `FSD` [源码](https://github.com/yuanshen-123-ui/CWFLY-FSD) · `ATC` [源码](https://github.com/yuanshen-123-ui/CWFLY-ATC) · `BOT` [源码](https://github.com/yuanshen-123-ui/CWFLY-BOT) · `DOCS` [源码](https://github.com/yuanshen-123-ui/CWFLY-DOCS)
+
+**支线任务**  
+[love-memoir](https://github.com/yuanshen-123-ui/love-memoir) · [embroidery-note](https://github.com/yuanshen-123-ui/embroidery-note)
 
 ## 05 · 被动技能
 
@@ -213,12 +217,16 @@ SIDE QUESTS
 └─ embroidery-note embroidery-style notes
 ```
 
-Links:
+### Links
 
-- [CTYFLY-WEB](https://github.com/yuanshen-123-ui/CTYFLY-WEB) · [ccflysim.cn](https://www.ccflysim.cn)
-- [CWFLY-WEB](https://github.com/yuanshen-123-ui/CWFLY-WEB) · [CWFLY-FSD](https://github.com/yuanshen-123-ui/CWFLY-FSD) · [CWFLY-ATC](https://github.com/yuanshen-123-ui/CWFLY-ATC) · [CWFLY-BOT](https://github.com/yuanshen-123-ui/CWFLY-BOT) · [CWFLY-DOCS](https://github.com/yuanshen-123-ui/CWFLY-DOCS)
-- [www.cwflysim.cn](https://www.cwflysim.cn)
-- [love-memoir](https://github.com/yuanshen-123-ui/love-memoir) · [embroidery-note](https://github.com/yuanshen-123-ui/embroidery-note)
+**[CTYFLY ↗](https://www.ccflysim.cn)**  
+Flight-simulation community · [source](https://github.com/yuanshen-123-ui/CTYFLY-WEB)
+
+**[CWFLY ↗](https://www.cwflysim.cn)**  
+`WEB` [source](https://github.com/yuanshen-123-ui/CWFLY-WEB) · `FSD` [source](https://github.com/yuanshen-123-ui/CWFLY-FSD) · `ATC` [source](https://github.com/yuanshen-123-ui/CWFLY-ATC) · `BOT` [source](https://github.com/yuanshen-123-ui/CWFLY-BOT) · `DOCS` [source](https://github.com/yuanshen-123-ui/CWFLY-DOCS)
+
+**Side quests**  
+[love-memoir](https://github.com/yuanshen-123-ui/love-memoir) · [embroidery-note](https://github.com/yuanshen-123-ui/embroidery-note)
 
 ## 05 · Passive Skills
 
