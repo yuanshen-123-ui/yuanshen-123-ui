@@ -8,6 +8,17 @@
 
 <sub>SSR · 重庆服务器 · 偶尔在线 · 长期维护中</sub>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A84FF&center=true&vCenter=true&width=520&lines=INTP;Full-stack+Developer;CWFLY+%2F+CTYFLY;Building+calm+systems)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue%203-42b883?logo=vue.js&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" alt="Linux" />
+</p>
+
 </div>
 
 ---
@@ -108,7 +119,30 @@ SIDE QUESTS
 **INTP 开会模式**  
 脑内已经跑完十种方案，嘴上只说一句“可以”。
 
-## 06 · 运行数据
+## 06 · GitHub 数据
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=default&amp;rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight" alt="Top languages" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=tokyonight&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=default&amp;hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
+</picture>
+
+</div>
+
+## 07 · 运行数据
 
 ```text
 GITHUB REPOS        11
@@ -117,7 +151,7 @@ FRONTEND PAGES      38
 COMMUNITIES         2
 ```
 
-## 07 · 2026 计划
+## 08 · 2026 计划
 
 - [x] 完成 CTYFLY 社区平台的主要功能闭环
 - [x] 上线 ACIS 飞圈事件检索
@@ -126,7 +160,7 @@ COMMUNITIES         2
 - [ ] 保持输入，也保持输出
 - [ ] 学会在不需要完美的时候，先交付
 
-## 08 · 通讯频率
+## 09 · 通讯频率
 
 - GitHub：[@yuanshen-123-ui](https://github.com/yuanshen-123-ui)
 - CWFLY：[www.cwflysim.cn](https://www.cwflysim.cn)
@@ -245,7 +279,30 @@ If a script can do it, do not repeat it by memory.
 **INTP meeting mode**  
 Ten solutions have already run in my head; I say “sounds good”.
 
-## 06 · Runtime Data
+## 06 · GitHub Data
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=default&amp;rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight" alt="Top languages" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=tokyonight&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=default&amp;hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
+</picture>
+
+</div>
+
+## 07 · Runtime Data
 
 ```text
 GITHUB REPOS        11
@@ -254,7 +311,7 @@ FRONTEND PAGES      38
 COMMUNITIES         2
 ```
 
-## 07 · 2026 Plan
+## 08 · 2026 Plan
 
 - [x] Complete the main CTYFLY feature loop
 - [x] Launch ACIS incident search
@@ -263,7 +320,7 @@ COMMUNITIES         2
 - [ ] Keep learning and keep shipping
 - [ ] Learn to ship before everything is perfect
 
-## 08 · Contact Frequency
+## 09 · Contact Frequency
 
 - GitHub: [@yuanshen-123-ui](https://github.com/yuanshen-123-ui)
 - CWFLY: [www.cwflysim.cn](https://www.cwflysim.cn)
