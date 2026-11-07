@@ -1,52 +1,62 @@
 <div align="center">
 
-# 你好，我是 Tearsvow 👋
+# Tearsvow
 
-**模拟飞行爱好者 · 全栈开发者 · 社区维护者**
+### 飞行日志 · 个人档案
 
-`重庆` · `INTP` · `Building CWFLY & CTYFLY`
+`INTP` · `重庆` · `模拟飞行` · `全栈开发`
 
-![Vue 3](https://img.shields.io/badge/Vue%203-42b883?logo=vue.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+<sub>当前状态：巡航中。偶尔颠簸，但不会掉高度。</sub>
 
 </div>
 
-> 把复杂系统做得像一次平稳落地：乘客感觉不到过程，但每一步都经过计算。
-
 ---
 
-## 关于我
+> 我喜欢把复杂系统做得像一次平稳落地。  
+> 乘客感觉不到过程，但每一步都经过计算。
 
-我是 Tearsvow，一名常驻重庆的模拟飞行爱好者和全栈开发者。
+## 身份卡
 
-目前同时维护两个模拟飞行社区平台：**CWFLY** 与 **CTYFLY**。  
-我喜欢把航空数据、社区运营和界面设计放进同一套系统里，让玩家从查航情、做计划、连飞，到加入虚拟航司、提交报告、查看统计，都能顺畅完成。
+| 字段 | 值 |
+|---|---|
+| 呼号 | Tearsvow |
+| 机型 | INTP |
+| 常驻地 | 重庆 |
+| 生日 | 8 月 15 日 |
+| 当前航班 | CWFLY / CTYFLY |
+| 副驾驶 | 小雅 |
+| 社交电量 | 17%，聊到感兴趣的技术会临时满格 |
+| 落地能力 | 依赖 deadline 推一把 |
 
-我不是只写页面的人。需求梳理、数据建模、接口设计、部署脚本、移动端适配、性能优化和故障排查，通常都会一起做完。
+## 当前任务
 
-## 现在在做什么
+- **CTYFLY**：航情、航路规划、连飞活动、虚拟航司、经济系统、ACIS 事件检索与管理后台。
+- **CWFLY**：社区官网、FSD 连线服务器、管制中心、QQ 机器人与文档站。
+- **持续优化**：性能、移动端、自动化回归、部署可靠性。
+- **长期工程**：把踩过的坑写成文档和脚本，让下一次少掉一点高度。
 
-- 维护 **CTYFLY**：航情、航路规划、连飞活动、虚拟航司、经济系统、ACIS 事件检索与管理后台。
-- 维护 **CWFLY**：社区官网、FSD 连线服务器、管制中心、QQ 机器人与文档站。
-- 继续打磨性能、移动端体验、自动化回归和部署可靠性。
-- 把反复遇到的问题写成文档和脚本，减少下一次踩坑。
+## 飞行数据
 
-## 项目
+| 指标 | 数值 |
+|---|---|
+| GitHub 仓库 | 11 |
+| 后端路由模块 | 22 |
+| 前端页面 | 38 |
+| 维护中的模拟飞行社区 | 2 |
 
-### CTYFLY
+## 项目航线
 
-| 项目 | 说明 | 技术栈 |
+### CTYFLY · 主航线
+
+| 项目 | 任务描述 | 技术舱单 |
 |---|---|---|
 | [CTYFLY-WEB](https://github.com/yuanshen-123-ui/CTYFLY-WEB) | CTY 飞控社区官网：航情与航路、连飞活动、虚拟航司、经济系统、桌宠 AI、ACIS 事件检索、双人复核后台 | Vue 3 · FastAPI · SQLite |
 
 线上站点：[ccflysim.cn](https://www.ccflysim.cn)
 
-### CWFLY
+### CWFLY · 编队航线
 
-| 项目 | 说明 | 技术栈 |
+| 项目 | 任务描述 | 技术舱单 |
 |---|---|---|
 | [CWFLY-WEB](https://github.com/yuanshen-123-ui/CWFLY-WEB) | 社区官网：在线地图、航图、气象、飞行计划、培训、论坛、积分 | Vue 3 · Express · Prisma · MySQL |
 | [CWFLY-FSD](https://github.com/yuanshen-123-ui/CWFLY-FSD) | FSD 连线服务器：认证、广播裁剪、会话重连、计划锁定、多源 METAR、航迹 | Python asyncio |
@@ -56,14 +66,14 @@
 
 线上站点：[www.cwflysim.cn](https://www.cwflysim.cn)
 
-### 其他项目
+### 支线任务
 
-| 项目 | 说明 |
+| 项目 | 任务描述 |
 |---|---|
 | [love-memoir](https://github.com/yuanshen-123-ui/love-memoir) | 移动端 H5 恋爱回忆录小游戏，Vue 3 + Vite |
 | [embroidery-note](https://github.com/yuanshen-123-ui/embroidery-note) | 刺绣风汉字互动便签，Vue 3 + hanzi-writer + FastAPI |
 
-## 技术栈
+## 技术舱单
 
 **前端**  
 `Vue 3` · `Vite` · `Pinia` · `Vue Router`
@@ -72,88 +82,108 @@
 `Python` · `FastAPI` · `Node.js` · `Express` · `Prisma`
 
 **数据**  
-`SQLite` · `MySQL` · `SQL` 索引与查询优化
+`SQLite` · `MySQL` · 索引与查询优化
 
-**部署与运维**  
+**部署**  
 `Nginx` · `systemd` · `PM2` · `PowerShell` · `Linux`
 
 **地图与可视化**  
 `AMap` · `Mapbox` · `Leaflet` · `three.js`
 
-## 我如何工作
+## INTP 观察报告
 
-- 先让主流程闭环，再补边界、异常和视觉细节。
-- 遇到 bug 先复现，再定位根因，最后补回归测试。
-- 喜欢清晰的模块边界，让每个部分都能独立验证。
-- 对界面质感有要求，层级、留白、光影和动效都要服务于信息阅读。
-- 能交给脚本的事，尽量不靠记忆手工重复。
+- 看到 bug：先问为什么，再问怎么修，最后问为什么没有测试。
+- 写代码：先搭抽象，再补细节，最后发现抽象也需要重写。
+- 开会：脑内已经跑完十种方案，嘴上只说一句“可以”。
+- 社交：需要独处充电，但聊到航空、界面或架构会突然超频。
+- 弱点：想法很多，落地需要 deadline 在后面推一把。
+- 审美：可以接受功能暂时不完美，很难接受一个不对齐的白角。
 
-## 2026 小目标
+## 2026 航线
 
 - [x] 完成 CTYFLY 社区平台的主要功能闭环
 - [x] 上线 ACIS 飞圈事件检索
 - [ ] 继续完善 CWFLY 与 CTYFLY 的移动端体验
 - [ ] 补更多自动化回归与性能基线
 - [ ] 保持输入，也保持输出
+- [ ] 学会在不需要完美的时候，先让飞机落地
 
-## 生活
-
-常驻重庆，喜欢飞行模拟、航图、界面设计和把复杂问题拆成简单结构。
-
-我有一个爱人，叫**小雅**。
-
-写代码之外，我也在学着把生活过得松弛一点：该认真时认真，该停下来时停下来。
-
-## 联系
+## 通讯频率
 
 - GitHub：[@yuanshen-123-ui](https://github.com/yuanshen-123-ui)
 - CWFLY：[www.cwflysim.cn](https://www.cwflysim.cn)
 - CTYFLY：[ccflysim.cn](https://www.ccflysim.cn)
 - 邮箱：501827685@qq.com 或 guichangyang@ccflysim.cn
 
-欢迎交流模拟飞行、航空数据、全栈开发与社区产品。
+欢迎交流模拟飞行、航空数据、全栈开发与社区产品。  
+如果你也在做飞行模拟相关的东西，欢迎来频道里聊。
+
+## 生活
+
+常驻重庆。喜欢飞行模拟、航图、界面设计，以及把复杂问题拆成简单结构。
+
+我有一个爱人，叫**小雅**。
+
+写代码之外，我也在学着把生活过得松弛一点：该认真时认真，该停下来时停下来。
 
 ---
 
 <details>
 <summary><b>🇬🇧 English Version · click to expand</b></summary>
 
-# Hi, I'm Tearsvow 👋
+# Tearsvow
 
-**Flight-simulation enthusiast · Full-stack developer · Community maintainer**
+### Flight Log · Personal File
 
-`Chongqing, China` · `INTP` · `Building CWFLY & CTYFLY`
+`INTP` · `Chongqing` · `Flight Simulation` · `Full-stack Development`
 
-> Make a complex system feel like a smooth landing: passengers do not see the process, but every step is calculated.
+<sub>Current status: cruising. Occasionally bumpy, never losing altitude.</sub>
 
-## About me
+> I like making complex systems feel like a smooth landing.  
+> Passengers do not see the process, but every step is calculated.
 
-I am Tearsvow, a flight-simulation enthusiast and full-stack developer based in Chongqing, China.
+## Identity Card
 
-I maintain two flight-simulation community platforms: **CWFLY** and **CTYFLY**. I enjoy bringing aviation data, community operations and interface design into one coherent system, so players can move smoothly from weather and route planning to multiplayer flights, virtual-airline operations, PIREPs and statistics.
+| Field | Value |
+|---|---|
+| Callsign | Tearsvow |
+| Aircraft | INTP |
+| Home base | Chongqing, China |
+| Birthday | August 15 |
+| Current flight | CWFLY / CTYFLY |
+| First officer | Xiaoya |
+| Social battery | 17%, temporarily full when the topic is interesting |
+| Landing ability | Needs a deadline pushing from behind |
 
-I do more than build pages. Requirement analysis, data modeling, API design, deployment scripts, mobile adaptation, performance tuning and incident response usually come together.
+## Current Missions
 
-## What I'm doing now
+- **CTYFLY**: weather, route planning, multiplayer events, virtual airlines, economy, ACIS incident search and admin review.
+- **CWFLY**: community site, FSD server, ATC center, QQ bot and documentation.
+- **Continuous improvement**: performance, mobile experience, automated regression and deployment reliability.
+- **Long-term engineering**: turn every pitfall into documentation and scripts.
 
-- Maintaining **CTYFLY**: weather, route planning, multiplayer events, virtual airlines, economy, ACIS incident search and admin review.
-- Maintaining **CWFLY**: community site, FSD server, ATC center, QQ bot and documentation.
-- Improving performance, mobile experience, automated regression and deployment reliability.
-- Turning recurring problems into documentation and scripts.
+## Flight Data
 
-## Featured projects
+| Metric | Value |
+|---|---|
+| GitHub repositories | 11 |
+| Backend route modules | 22 |
+| Frontend pages | 38 |
+| Flight-sim communities maintained | 2 |
 
-### CTYFLY
+## Project Routes
 
-| Project | Description | Stack |
+### CTYFLY · Main Route
+
+| Project | Mission | Tech Manifest |
 |---|---|---|
 | [CTYFLY-WEB](https://github.com/yuanshen-123-ui/CTYFLY-WEB) | CTY community site: weather and routes, multiplayer events, virtual airlines, economy, desktop pet AI, ACIS incident search, dual-review admin | Vue 3 · FastAPI · SQLite |
 
 Live site: [ccflysim.cn](https://www.ccflysim.cn)
 
-### CWFLY
+### CWFLY · Formation Route
 
-| Project | Description | Stack |
+| Project | Mission | Tech Manifest |
 |---|---|---|
 | [CWFLY-WEB](https://github.com/yuanshen-123-ui/CWFLY-WEB) | Community site: online map, charts, weather, flight plans, training, forum, points | Vue 3 · Express · Prisma · MySQL |
 | [CWFLY-FSD](https://github.com/yuanshen-123-ui/CWFLY-FSD) | FSD multiplayer server: auth, broadcast culling, reconnect, plan locking, multi-source METAR, track | Python asyncio |
@@ -163,14 +193,14 @@ Live site: [ccflysim.cn](https://www.ccflysim.cn)
 
 Live site: [www.cwflysim.cn](https://www.cwflysim.cn)
 
-### Other projects
+### Side Quests
 
-| Project | Description |
+| Project | Mission |
 |---|---|
 | [love-memoir](https://github.com/yuanshen-123-ui/love-memoir) | Mobile H5 romance-memoir mini-game built with Vue 3 and Vite |
 | [embroidery-note](https://github.com/yuanshen-123-ui/embroidery-note) | Embroidery-style interactive Chinese-character notes built with Vue 3, hanzi-writer and FastAPI |
 
-## Tech stack
+## Tech Manifest
 
 **Frontend**  
 `Vue 3` · `Vite` · `Pinia` · `Vue Router`
@@ -179,7 +209,7 @@ Live site: [www.cwflysim.cn](https://www.cwflysim.cn)
 `Python` · `FastAPI` · `Node.js` · `Express` · `Prisma`
 
 **Data**  
-`SQLite` · `MySQL` · SQL indexing and query optimization
+`SQLite` · `MySQL` · indexing and query optimization
 
 **Deployment**  
 `Nginx` · `systemd` · `PM2` · `PowerShell` · `Linux`
@@ -187,21 +217,32 @@ Live site: [www.cwflysim.cn](https://www.cwflysim.cn)
 **Maps and visualization**  
 `AMap` · `Mapbox` · `Leaflet` · `three.js`
 
-## How I work
+## INTP Observation Report
 
-- Close the main loop first, then refine edge cases and visual details.
-- Reproduce a bug, find the root cause, then add a regression test.
-- Prefer clear module boundaries that can be verified independently.
-- Care about hierarchy, spacing, light and motion in service of readable information.
-- Automate repetitive work whenever a script can do it better.
+- Seeing a bug: ask why, then how to fix it, then why there was no test.
+- Writing code: build the abstraction, fill in details, then rewrite the abstraction.
+- In meetings: ten solutions have already run in my head, but I say “sounds good”.
+- Socializing: need solitude to recharge, but overclock when the topic is aviation, interfaces or architecture.
+- Weakness: too many ideas; landing them needs a deadline.
+- Aesthetic: I can accept a feature being temporarily imperfect, but not a misaligned corner.
 
-## 2026 goals
+## 2026 Route
 
 - [x] Complete the main CTYFLY feature loop
 - [x] Launch ACIS incident search
 - [ ] Keep improving mobile experiences for CWFLY and CTYFLY
 - [ ] Add more automated regression and performance baselines
 - [ ] Keep learning and keep shipping
+- [ ] Learn to land the plane before everything is perfect
+
+## Contact Frequency
+
+- GitHub: [@yuanshen-123-ui](https://github.com/yuanshen-123-ui)
+- CWFLY: [www.cwflysim.cn](https://www.cwflysim.cn)
+- CTYFLY: [ccflysim.cn](https://www.ccflysim.cn)
+- Email: 501827685@qq.com or guichangyang@ccflysim.cn
+
+Always happy to talk about flight simulation, aviation data, full-stack development and community products.
 
 ## Life
 
@@ -210,14 +251,5 @@ Based in Chongqing. I enjoy flight simulation, aviation charts, interface design
 I have a beloved partner, **Xiaoya**.
 
 Outside code, I am learning to make life a little more relaxed: be serious when it matters, and stop when it is time to stop.
-
-## Contact
-
-- GitHub: [@yuanshen-123-ui](https://github.com/yuanshen-123-ui)
-- CWFLY: [www.cwflysim.cn](https://www.cwflysim.cn)
-- CTYFLY: [ccflysim.cn](https://www.ccflysim.cn)
-- Email: 501827685@qq.com or guichangyang@ccflysim.cn
-
-Always happy to talk about flight simulation, aviation data, full-stack development and community products.
 
 </details>
