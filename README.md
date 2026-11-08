@@ -124,20 +124,14 @@ SIDE QUESTS
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=default&amp;rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
+  <img src="assets/stats-dark.svg" width="48%" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight" alt="Top languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=tokyonight&amp;hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=default&amp;hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg" />
+  <img src="assets/languages-dark.svg" width="48%" alt="Top languages" />
 </picture>
 
 </div>
@@ -145,7 +139,7 @@ SIDE QUESTS
 ## 07 · 运行数据
 
 ```text
-GITHUB REPOS        11
+GITHUB REPOS        9
 BACKEND MODULES     22
 FRONTEND PAGES      38
 COMMUNITIES         2
@@ -284,20 +278,14 @@ Ten solutions have already run in my head; I say “sounds good”.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=default&amp;rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yuanshen-123-ui&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
+  <img src="assets/stats-dark.svg" width="48%" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshen-123-ui&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight" alt="Top languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=tokyonight&amp;hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=default&amp;hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=yuanshen-123-ui&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg" />
+  <img src="assets/languages-dark.svg" width="48%" alt="Top languages" />
 </picture>
 
 </div>
@@ -305,7 +293,7 @@ Ten solutions have already run in my head; I say “sounds good”.
 ## 07 · Runtime Data
 
 ```text
-GITHUB REPOS        11
+GITHUB REPOS        9
 BACKEND MODULES     22
 FRONTEND PAGES      38
 COMMUNITIES         2

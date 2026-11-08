@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="190" viewBox="0 0 495 190" role="img" aria-label="Top languages">
+  <rect x="0.5" y="0.5" width="494" height="189" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="24" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.6" fill="#57606a">TOP LANGUAGES</text>
+  <text x="24" y="53" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#6e7781">across public repositories</text>
+  <line x1="24" y1="70" x2="471" y2="70" stroke="#d8dee4"/>
+  <text x="24" y="86" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10.5" fill="#1f2328">Python</text>
+  <rect x="130" y="79" width="341" height="5" rx="2.5" fill="#eaeef2"/>
+  <rect x="130" y="79" width="133" height="5" rx="2.5" fill="#3572A5"/>
+  <text x="471" y="86" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#57606a">38.9%</text>
+  <text x="24" y="108" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10.5" fill="#1f2328">Vue</text>
+  <rect x="130" y="101" width="341" height="5" rx="2.5" fill="#eaeef2"/>
+  <rect x="130" y="101" width="125" height="5" rx="2.5" fill="#41b883"/>
+  <text x="471" y="108" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#57606a">36.6%</text>
+  <text x="24" y="130" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10.5" fill="#1f2328">JavaScript</text>
+  <rect x="130" y="123" width="341" height="5" rx="2.5" fill="#eaeef2"/>
+  <rect x="130" y="123" width="66" height="5" rx="2.5" fill="#d4a72c"/>
+  <text x="471" y="130" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#57606a">19.4%</text>
+  <text x="24" y="152" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10.5" fill="#1f2328">CSS</text>
+  <rect x="130" y="145" width="341" height="5" rx="2.5" fill="#eaeef2"/>
+  <rect x="130" y="145" width="8" height="5" rx="2.5" fill="#563d7c"/>
+  <text x="471" y="152" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#57606a">2.3%</text>
+  <line x1="24" y1="164" x2="471" y2="164" stroke="#d8dee4"/>
+  <text x="24" y="181" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#6e7781">PYTHON · VUE · JAVASCRIPT · CSS · SHELL</text>
+</svg>
