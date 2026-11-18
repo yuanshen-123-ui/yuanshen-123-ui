@@ -14,18 +14,16 @@ CWFLY / CTYFLY 全栈开发者，模拟飞行社区维护者。
 > 我不是在写页面。  
 > 我是在把一堆想法、数据和审美要求，整理成一个能长期运转的系统。
 
-**PROFILE**
-
-- **Name**：Tearsvow
-- **Handle**：yuanshen-123-ui
-- **Role**：Full-Stack Developer
-- **Base**：Chongqing, China
-- **Birthday**：08.15
-- **Partner**：Xiaoya
-- **Blog**：[blog.ccflysim.cn](https://blog.ccflysim.cn/)
-- **Status**：ONLINE / 社交电量偏低
-- **Stack**：Python / FastAPI · Vue 3 / Vite / TypeScript
-
+**个人档案**:
+  **称呼**: Tearsvow
+  **账号**: yuanshen-123-ui
+  **职业**: 全栈开发工程师
+  **坐标**: 中国·重庆
+  **生日**: 08月15日
+  **爱人**: 小雅
+  **博客**: blog.ccflysim.cn
+  **当前状态**: 在线 / 社交电量偏低
+  **技术栈**: Python / FastAPI · Vue 3 / Vite / TypeScript
 ## 当前任务 / CURRENT MISSIONS
 
 ```text
