@@ -69,8 +69,7 @@ CWFLY / CTYFLY 全栈开发者，模拟飞行社区维护者。
 **支线项目 / SIDE QUESTS**  
 [love-memoir](https://github.com/yuanshen-123-ui/love-memoir) · [embroidery-note](https://github.com/yuanshen-123-ui/embroidery-note)
 
-## 通讯频率 / CONTACT
-
+## 与我联系 / CONTACT
 ```text
 GITHUB   https://github.com/yuanshen-123-ui
 BLOG     https://blog.ccflysim.cn/
