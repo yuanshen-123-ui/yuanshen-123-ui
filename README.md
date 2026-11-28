@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="assets/hero.svg" width="100%" alt="Tearsvow — CWFLY / CTYFLY" />
-
-<code>&gt; SYSTEM ONLINE // CWFLY / CTYFLY // 2026</code>
-
-</div>
+## 欢迎来到我的GitHub主页呀~
 
 ## 关于我 / ABOUT
 
